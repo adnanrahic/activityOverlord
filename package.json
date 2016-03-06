@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/activityOverlord.git"
+    "url": "git://github.com/adnanrahic/activityOverlord.git"
   },
-  "author": "anonymous node/sails user",
+  "author": "adnanrahic",
   "license": ""
 }
